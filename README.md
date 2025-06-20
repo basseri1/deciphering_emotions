@@ -33,15 +33,15 @@ We Love Reading, a community-led, shared book-reading program that was developed
 ### Emotion Categories:
 
 The main study focuses on eight primary emotions plus neutral, expressed in Arabic:
-- **غضب** (Anger)
-- **حزن** (Sadness)  
-- **سعادة** (Happiness)
-- **خوف** (Fear)
-- **مفاجأة** (Surprise)
-- **ترقب** (Anticipation)
-- **ثقة** (Trust)
-- **قرف** (Disgust)
-- **محايد** (Neutral)
+- **Anger** (غضب)
+- **Sadness** (حزن)  
+- **Happiness** (سعادة)
+- **Fear** (خوف)
+- **Surprise** (مفاجأة)
+- **Anticipation** (ترقب)
+- **Trust** (ثقة)
+- **Disgust** (قرف)
+- **Neutral** (محايد)
 
 The supplementary Plutchik analysis expands this to the complete 21-emotion framework, including complex emotions such as love, submission, awe, disapproval, remorse, contempt, aggressiveness, optimism, and others to provide a more nuanced emotional assessment.
 
