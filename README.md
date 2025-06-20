@@ -8,10 +8,6 @@ Emotion recognition capabilities in multimodal AI systems are crucial for develo
 
 We Love Reading, a community-led, shared book-reading program that was developed in Jordan by a Jordanian-run NGO.
 
-### Analysis Tool:
-
-The emotion annotation analysis was conducted using the automated annotation script available at: [LLM-Image-Emotion-Annotator](https://github.com/basseri1/LLM-Image-Emotion-Annotator/tree/main). This Python tool enables automated emotion labeling of images using GPT-4o and Gemini 1.5 Pro with multiple prompting strategies (zero-shot, few-shot, and chain-of-thought).
-
 
 ### Repository Files:
 
@@ -50,6 +46,6 @@ The main study focuses on eight primary emotions plus neutral, expressed in Arab
 The supplementary Plutchik analysis expands this to the complete 21-emotion framework, including complex emotions such as love, submission, awe, disapproval, remorse, contempt, aggressiveness, optimism, and others to provide a more nuanced emotional assessment.
 
 
-## About
+### Analysis Tool:
 
-This repository contains the complete dataset and analysis framework for evaluating Large Language Model performance in emotion recognition within children's storybook illustrations, with a focus on Arabic language emotional concepts and cultural context. 
+The emotion annotation analysis was conducted using the automated annotation script available at: [LLM-Image-Emotion-Annotator](https://github.com/basseri1/LLM-Image-Emotion-Annotator/tree/main). This Python tool enables automated emotion labeling of images using GPT-4o and Gemini 1.5 Pro with multiple prompting strategies (zero-shot, few-shot, and chain-of-thought).
