@@ -8,6 +8,10 @@ Emotion recognition capabilities in multimodal AI systems are crucial for develo
 
 We Love Reading, a community-led, shared book-reading program that was developed in Jordan by a Jordanian-run NGO.
 
+### Analysis Tool:
+
+The emotion annotation analysis was conducted using the automated annotation script available at: [LLM-Image-Emotion-Annotator](https://github.com/basseri1/LLM-Image-Emotion-Annotator/tree/main). This Python tool enables automated emotion labeling of images using GPT-4o and Gemini 1.5 Pro with multiple prompting strategies (zero-shot, few-shot, and chain-of-thought).
+
 
 ### Repository Files:
 
